@@ -14,5 +14,6 @@ import lombok.ToString;
 public class Hello {
 
     private String message;
+    private String username;
 
 }
